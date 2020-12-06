@@ -11763,6 +11763,11 @@ label.panel-block:hover {
   font-family: Helvetica, sans-serif;
 }
 
+#article-content .image-title {
+  text-align: center;
+  font-size: 35px;
+}
+
 #article-content .image-row {
   display: -webkit-box;
   display: -ms-flexbox;
